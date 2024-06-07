@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vimansha Madushani Jayarathna</h1>
+<h1 align="left">Hi 👋, I'm Vimansha Madushani Jayarathna</h1>
 
 
 - 🔭 I’m currently purchasing a degree **Statistics & Operation Reserach**
