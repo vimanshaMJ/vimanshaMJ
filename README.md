@@ -1,10 +1,7 @@
-<h1 align="left">Hi 👋, I'm Vimansha Madushani Jayarathna</h1>
+<h1 align="left">Hiii, I'm Vimansha Madushani Jayarathna</h1>
 
 
 - 🔭 I’m currently purchasing a degree **Statistics & Operation Reserach**
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **https://www.linkedin.com/in/vimansha-madushani-jayarathna/**
 
 <h3 align="left">Connect with me:</h3>
