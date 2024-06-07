@@ -3,6 +3,7 @@
 - 🎓 I’m currently styding **Statistics & Operation Reserach** at University of Peradeniya
 - 📫 How to reach me **https://www.linkedin.com/in/vimansha-madushani-jayarathna/**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vimansha madushani jayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimansha madushani jayarathna" height="30" width="40" /></a>
@@ -16,7 +17,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimanshamj&show_icons=true&locale=en&layout=compact" alt="vimanshamj" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimanshamj&show_icons=true&locale=en&layout=compact" alt="vimanshamj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimanshamj&show_icons=true&locale=en" alt="vimanshamj" /></p>
 
