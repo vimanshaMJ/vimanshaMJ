@@ -3,14 +3,12 @@
 - 🎓 I’m currently styding **Statistics & Operation Reserach** at University of Peradeniya
 - 📫 How to reach me **https://www.linkedin.com/in/vimansha-madushani-jayarathna/**
 
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vimansha madushani jayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimansha madushani jayarathna" height="30" width="40" /></a>
 <a href="https://fb.com/vimansha madushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vimansha madushani" height="30" width="40" /></a>
 <a href="https://instagram.com/viiii.ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viiii.ma" height="30" width="40" /></a>
 </p>
-<br/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
