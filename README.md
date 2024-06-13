@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimanshaMJ&label=Profile%20views&color=0e75b6&style=flat" alt="vimanshaMJ" /> </p>
 
 - 🎓 I’m currently studying **Statistics & Operations Reserach** at University of Peradeniya
 - 📫 How to reach me :  **<a href="https://www.linkedin.com/in/vimansha-madushani-jayarathna">Linkedin</a>**
