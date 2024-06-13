@@ -1,7 +1,7 @@
 <h1 align="left">Hiii, I'm Vimansha Madushani Jayarathna</h1>
 
 - 🎓 I’m currently studying **Statistics & Operations Reserach** at University of Peradeniya
-- 📫 How to reach me **https://www.linkedin.com/in/vimansha-madushani-jayarathna/**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/vimansha-madushani-jayarathna">Linkedin</a>**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
