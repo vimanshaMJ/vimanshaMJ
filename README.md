@@ -1,7 +1,8 @@
 
-<h1 align="left">Hiii, I'm Vimansha Madushani Jayarathna</h1>
-<h3 align="left">A passionate FullStack Developer from Sri Lanka</h3>
-<img align="center" alt="Coding" width="350" justify="center" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
+<h1 align="center">Hiii, I'm Vimansha Madushani Jayarathna</h1>
+<h3 align="center">A passionate FullStack Developer from Sri Lanka</h3>
+<br/>
+<img align="right" alt="Coding" width="300" justify="center" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimanshaMJ&label=Profile%20views&color=0e75b6&style=flat" alt="vimanshaMJ" /> </p>
 
