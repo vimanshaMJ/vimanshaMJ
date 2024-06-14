@@ -20,13 +20,31 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,django,bootstrap,materialui,)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=python,java,c,r)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,aws,docker,postman)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,django,bootstrap,materialui" />
+  </a>
 </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=python,java,c,r" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,aws,docker,postman" />
+  </a>
+</p>
+
 
 <br/>
 <br/>
