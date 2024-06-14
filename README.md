@@ -4,8 +4,6 @@
 <br/>
 <img align="right" alt="Coding" width="300" justify="center" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimanshaMJ&label=Profile%20views&color=0e75b6&style=flat" alt="vimanshaMJ" /> </p>
-
 - 🎓 I’m currently studying **Statistics & Operations Reserach** at University of Peradeniya
 - 📫 How to reach me :  **<a href="https://www.linkedin.com/in/vimansha-madushani-jayarathna">Linkedin</a>**
 
