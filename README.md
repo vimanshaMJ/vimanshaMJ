@@ -15,7 +15,7 @@
 <a href="https://instagram.com/viiii.ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viiii.ma" height="30" width="40" /></a>
 </p>
 <br/>
-
+<hr/>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
