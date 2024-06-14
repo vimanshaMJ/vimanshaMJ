@@ -10,7 +10,7 @@
 - 📫 How to reach me :  **<a href="https://www.linkedin.com/in/vimansha-madushani-jayarathna">Linkedin</a>**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vimansha madushani jayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimansha madushani jayarathna" height="30" width="40" /></a>
 <a href="https://fb.com/vimansha madushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vimansha madushani" height="30" width="40" /></a>
