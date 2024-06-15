@@ -19,7 +19,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,materialui,express,nodejs,django,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,materialui,express,nodejs,django,tailwind" />
   </a>
 </p>
 <p align="left">
