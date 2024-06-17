@@ -39,7 +39,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,aws,docker,postman" />
+   <img src="https://skillicons.dev/icons?i=postman,git,aws,docker,windows,linux" />
   </a>
 </p>
 
