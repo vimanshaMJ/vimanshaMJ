@@ -49,5 +49,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimanshaMJ&count_private=true&show_icons=true&locale=en&theme=radical" alt="vimanshamj" />
   &nbsp;&nbsp;
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimanshaMJ&layout=compact&theme=radical" alt="vimanshamj" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimanshaMJ&layout=compact&theme=radical" alt="vimanshamj" />
 </p>
