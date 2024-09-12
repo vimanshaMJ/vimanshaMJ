@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="300" justify="center" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
 
 - 🎓 I’m currently studying **Statistics & Operations Reserach** at University of Peradeniya
-- 📫 How to reach me :  **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>**
+- 👀 Know about me : **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>**
+- 📫 How to reach me :  **vimanshamadushani88@gmail.com**
 
 <br/>
 <h3 align="left">🔗 Connect with me:</h3>
