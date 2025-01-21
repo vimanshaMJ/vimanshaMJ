@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently studying **Statistics & Operations Reserach** at University of Peradeniya
 - 👀 Know about me : **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>**
-- 📫 How to reach me :  **vimanshamadushani88@gmail.com**
+- 📫 How to reach me :  **vimanshamj@gmail.com**
 
 <br/>
 <h3 align="left">🔗 Connect with me:</h3>
