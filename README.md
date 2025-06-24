@@ -2,13 +2,14 @@
 <h1 align="center">Hiii, I'm Vimansha Madushani Jayarathna</h1>
 <h3 align="center">BSc(Hons) in Statistics & Operations Research</h3>
 <img align="right" alt="Coding" width="300" justify="center" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
+
 <h3 align="left">👋 About Me</h3>
 
-- 🎓 Final year undergraduate with a passion for Data Science and Machine Learning
-- 🧑‍💻 Experienced in data analysis, data science, and machine learning projects
-- 💡 Skilled and experienced in web development
-- 🌱 Currently exploring ETL pipelines, data engineering, and building robust data workflows
-- 🚀 Always eager to learn new technologies and collaborate on impactful projects.
+- 🎓 Final year undergraduate with a passion for Data Science & ML
+- 🧑‍💻 Skilled in data analysis, data science, and ML projects
+- 💡 Experienced in web development
+- 🌱 Currently exploring ETL pipelines & building robust data workflows
+- 🚀 Always eager to learn new technologies
 - 📫 How to reach me :  **vimanshamj@gmail.com**
 <!-- - 👀 Know about me : **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>** -->
 
