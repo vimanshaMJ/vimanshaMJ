@@ -49,6 +49,32 @@
   </a>
 </p>
 
+<br/>
+<hr/>
+<h3 align="left">💻 My Projects:</h3>
+<h4>Data Science & Visualization</h4>
+
+- Multivariate Analysis of Liver Disease - <a href="https://github.com/vimanshaMJ/Multivariate-Analysis-of-Liver-Disease">View</a>
+- Global Data Science Salary Insights Dashboard using Tableau - <a href="https://github.com/vimanshaMJ/Global-Data-Science-Salary-Insights-Dashboard">View</a>
+- Hospital Emergency Room Dashboard using Power BI - <a href="https://github.com/vimanshaMJ/Hospital-Emergency-Room-Dashboard">View</a>
+
+<h4>AI & Machine Learning</h4>
+
+- Laptop Price Predictor - <a href="https://github.com/vimanshaMJ/laptop-price-predictor">View</a>
+
+<h4>Neural Network & Deep Learning</h4>
+
+- Tweet Classifier using LSTM & Bi-LSTM - <a href="https://github.com/vimanshaMJ/Tweet-classifier-using-LSTM-Bi-LSTM">View</a>
+
+<h4>Web Development</h4>
+
+- Archaeology Website - <a href="https://github.com/AselDamsika/ArchaeologyNewWeb">View</a>
+- Fullstack Note Application - <a href="https://github.com/vimanshaMJ/notes-app">View</a>
+- Nextjs Admin Dashboard - <a href="https://github.com/vimanshaMJ/nextjs-admin-dashboard">View</a>
+- FurniFlex Design - <a href="https://github.com/vimanshaMJ/FurniFlex-design">View</a>
+- Funeral Homepage Design - <a href="https://github.com/vimanshaMJ/funeral-homepage-design">View</a>
+  
+<br/>
 <hr/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vimanshaMJ&theme=radical)](https://git.io/streak-stats)
