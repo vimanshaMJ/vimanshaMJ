@@ -20,7 +20,7 @@
 <a href="https://fb.com/vimansha madushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vimansha madushani" height="30" width="40" /></a>
 <a href="https://instagram.com/viiii.ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viiii.ma" height="30" width="40" /></a>
 </p>
-<br/>
+
 <hr/>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<br/>
+
 <hr/>
 <h3 align="left">💻 My Projects:</h3>
 <h4>Data Science & Visualization</h4>
@@ -74,7 +74,7 @@
 - FurniFlex Design - <a href="https://github.com/vimanshaMJ/FurniFlex-design">View</a>
 - Funeral Homepage Design - <a href="https://github.com/vimanshaMJ/funeral-homepage-design">View</a>
   
-<br/>
+
 <hr/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vimanshaMJ&theme=radical)](https://git.io/streak-stats)
