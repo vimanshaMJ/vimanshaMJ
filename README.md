@@ -60,6 +60,7 @@
 <h4>AI & Machine Learning</h4>
 
 - Laptop Price Predictor - <a href="https://github.com/vimanshaMJ/laptop-price-predictor">View</a>
+- Interactive Perceptron Classification Web App - <a href="https://github.com/vimanshaMJ/interactive-perceptron-classifier">View</a>
 
 <h4>Neural Network & Deep Learning</h4>
 
