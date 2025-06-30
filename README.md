@@ -8,7 +8,6 @@
 - 🎓 Final year undergraduate with a passion for Data Science & ML
 - 🧑‍💻 Skilled in data analysis, data science, and ML projects
 - 💡 Experienced in web development
-- 🌱 Currently exploring ETL pipelines & building robust data workflows
 - 🚀 Always eager to learn new technologies
 - 📫 How to reach me :  **vimanshamj@gmail.com**
 <!-- - 👀 Know about me : **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>** -->
