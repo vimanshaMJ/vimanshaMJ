@@ -5,12 +5,12 @@
 
 <h3 align="left">👋 About Me</h3>
 
-- 🎓 Final year undergraduate with a passion for Data Science & ML
+- 🎓 Fresh graduate with a passion for Data Science & ML
 - 🧑‍💻 Skilled in data analysis, data science, and ML projects
 - 💡 Experienced in web development
 - 🚀 Always eager to learn new technologies
 - 📫 How to reach me :  **vimanshamj@gmail.com**
-<!-- - 👀 Know about me : **<a href="https://vimanshamj.github.io/portfolio/">Portfolio</a>** -->
+- 👀 Know about me : **<a href="https://vimanshamj.github.io">Portfolio</a>**
 
 <br/>
 <h3 align="left">🔗 Connect with me:</h3>
